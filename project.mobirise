@@ -62,7 +62,8 @@
     "gdpr": false,
     "mcSmartCart": {
       "currency": "USD"
-    }
+    },
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
